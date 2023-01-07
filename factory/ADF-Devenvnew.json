@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Devenvnew",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d10c23e-4fd7-4aca-ba2d-359cf2961ce9",
+		"tenantId": "74a2a391-b92f-43a1-9b02-05da2e37536b"
+	}
+}
